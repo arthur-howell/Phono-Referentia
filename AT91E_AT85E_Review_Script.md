@@ -1,73 +1,167 @@
-# PHONO REFERENTIA — CARTRIDGE REVIEW 001
+# PHONO REFERENTIA — CARTRIDGE 001
 
 ## Audio-Technica AT91E / AT85E
-### The Case for "Good Enough"
+### "The Case for Good Enough"
+
+**Target Runtime:** 19–22 minutes  
+**Reference Disc:** Phono Referentia I — Dynamics & Vocals  
+**Turntable:** Technics SL-QD33  
+**Phono Stage:** Emotiva XPS-1 Gen2  
+**Capture:** Realtek High Definition Audio  
+**Recording:** 192 kHz / 24-bit PCM  
 
 ---
 
-## [OPEN — TURNTABLE PLAYING]
+# 00:00 — COLD OPEN
+
+## [VIDEO]
+
+Close shot of the SL-QD33.
+
+Record spinning.
+
+Tonearm lowers.
+
+Don't immediately start talking.
+
+Let the stylus land.
+
+## [REFERENCE AUDIO — 10 SECONDS]
+
+Bring the cartridge capture up to full program level.
+
+Then lower it underneath narration.
+
+## [VOICEOVER]
 
 There is nothing exceptional about this cartridge.
 
-That's probably not how you're supposed to start a review.
+And I don't mean that as an insult.
 
-But... there isn't.
+This is the Audio-Technica AT91E that came with my Technics SL-QD33, fitted with an AT85-series elliptical stylus.
 
-This is the Audio-Technica AT91E that came installed on my Technics SL-QD33, and I'm using it with an AT85E elliptical stylus.
+It's inexpensive.
 
-It isn't exotic. It isn't particularly expensive. It isn't some forgotten giant killer that I'm about to tell you secretly embarrasses a thousand-dollar moving coil.
+It's simple.
 
-It sounds...
+It's attached to a cartridge system the audio industry mostly abandoned decades ago.
+
+And after listening to it for a while, the word I keep coming back to is...
 
 Fine.
 
-Actually, it sounds *really* fine.
+It's fine.
 
-And after living with it for a while, I've realized that I mean that as a compliment.
+Actually, it's *really* fine.
 
-Because this cartridge represents an idea that I think the audiophile world sometimes undervalues:
+And I think that's much more interesting than it sounds.
 
-What if you just want the damn thing to work?
+Because we spend an enormous amount of time in this hobby asking how much better something can get.
 
----
+This cartridge asks a completely different question:
 
-## [TITLE]
+**How complicated does playing a record actually need to be?**
+
+## [TITLE — 00:45]
 
 # PHONO REFERENTIA
 
-### Cartridge 001 — Audio-Technica AT91E / AT85E
+### Cartridge 001
+### Audio-Technica AT91E / AT85E
 
 ---
 
-## [ON CAMERA]
+# 00:50 — THE FIRST REFERENCE TRACK
 
-Before we listen to it, we need to talk about this weird little thing.
+## [REFERENCE TRACK 1]
 
-**[HOLD UP P-MOUNT CARTRIDGE]**
+### Before the Record Slips Away
 
-Because this isn't a normal half-inch cartridge.
+Bring the recording underneath narration.
 
-This is P-Mount.
+## [VOICEOVER]
 
-Or, more properly, **T4P**.
+I'm going to do something slightly different throughout these reviews.
 
-And T4P was an attempt to solve a very real problem with turntables:
+You're hearing the actual cartridge we're talking about.
 
-Us.
+The music underneath me is being reproduced from the Phono Referentia reference record through this cartridge.
+
+Periodically, I'm going to stop talking and bring that recording forward.
+
+No description.
+
+No adjective.
+
+No graph.
+
+Just listen.
+
+## [REFERENCE AUDIO — 30 SECONDS — FULL LEVEL]
+
+**NO NARRATION**
+
+Allow approximately 30 seconds of uninterrupted playback.
+
+## [VOICEOVER — MUSIC RETURNS TO BACKGROUND]
+
+That's our first reference.
+
+Remember what that sounds like.
+
+Because every cartridge that comes through this test platform is eventually going to hear this same record.
 
 ---
 
-## P-MOUNT
+# 01:50 — WHY THIS CARTRIDGE?
 
-Think about what I have to do when I install a normal cartridge.
+The obvious question is why I'm starting here.
 
-I've got two screws.
+I have more interesting cartridges.
+
+I have cartridges with more interesting styli.
+
+There are cartridges I expect to absolutely destroy this thing in particular areas.
+
+So why make *this* Cartridge 001?
+
+Because it's boring.
+
+And for once, that's exactly what I want.
+
+The Technics SL-QD33 uses P-Mount.
+
+More properly, **T4P**.
+
+And before we talk about the AT91E, we need to talk about what P-Mount was trying to accomplish.
+
+Because I actually think the idea was brilliant.
+
+---
+
+# 02:30 — P-MOUNT
+
+## [B-ROLL]
+
+Remove cartridge from SL-QD33.
+
+Close-up of connector.
+
+Show retaining screw.
+
+Show conventional half-inch headshell beside it if available.
+
+## [VOICEOVER]
+
+Here's a normal half-inch cartridge installation.
+
+Two screws.
 
 Four tiny wires.
 
-Overhang.
-
 Alignment.
+
+Overhang.
 
 Tracking force.
 
@@ -77,17 +171,21 @@ Cartridge mass.
 
 Tonearm compatibility.
 
-And if I really want to ruin an otherwise perfectly pleasant Saturday afternoon, I can start thinking about capacitance.
+And, if you're particularly committed to destroying an otherwise pleasant Saturday afternoon, capacitance.
 
-Now imagine explaining all of that to someone in 1982 who just wants to listen to a record.
+Now imagine you're a normal person.
 
-P-Mount basically says:
+You don't want a hobby.
 
-No.
+You bought a turntable because you own records.
 
-We're not doing any of that.
+P-Mount looked at all of this and basically said:
 
-The cartridge has standardized dimensions.
+**No.**
+
+The cartridge dimensions are standardized.
+
+The connection is standardized.
 
 The stylus position is standardized.
 
@@ -95,93 +193,181 @@ The cartridge mass is standardized.
 
 Nominal tracking force is 1.25 grams.
 
-The electrical connections are built into the mount.
+You push the cartridge into the tonearm.
 
-You push the cartridge into the tonearm, install one screw, and...
+Install one screw.
 
-That's it.
+And that's pretty much the entire event.
 
-You're done.
+No alignment protractor.
 
-No protractor.
+No headshell leads.
 
-No tiny headshell leads.
+No trying to decide whether the cartridge moved while you tightened the screws.
 
-No staring at a cantilever from six inches away wondering whether it's off by half a degree.
+Just...
 
-Just put a record on.
+Put the cartridge in.
 
-There is something wonderfully sane about that.
-
----
-
-## WHAT THEY WERE TRYING TO DO
-
-And I think P-Mount gets remembered somewhat unfairly.
-
-Today, when somebody says "P-Mount," there's a tendency to think:
-
-Cheap 1980s turntable.
-
-Plastic.
-
-Rack system.
-
-Something your parents bought at Sears.
-
-But that wasn't really the ambition behind T4P.
-
-The idea was much bigger.
-
-What if the cartridge and turntable manufacturers agreed on a standard?
-
-What if you could buy a cartridge from Audio-Technica, Ortofon, Shure, Technics — whoever — plug it into a compatible arm and know that the basic geometry was already correct?
-
-That's a legitimately good idea.
-
-And Technics didn't reserve it exclusively for cheap equipment, either.
-
-This was a serious attempt at making the phono cartridge into something approaching a standardized consumer component.
-
-And then the Compact Disc showed up.
-
-Because of course it did.
+Play the record.
 
 ---
 
-## [B-ROLL — CD PLAYER]
+# 03:30 — REFERENCE TRACK 2
 
-Think about the contrast.
+## [REFERENCE TRACK 2]
 
-Here's your turntable.
+### Edge of the Page
 
-*"Before listening to your new album, please verify cartridge alignment, vertical tracking force and anti-skating compensation."*
+Bring music up gradually.
 
-And here's the CD player:
+## [VOICEOVER]
 
-**[INSERT CD]**
+And before we go further, here's another part of the reference record.
 
-Done.
+Listen particularly to the vocal presentation and what happens around it.
 
-That's the world P-Mount was trying to compete in.
+## [REFERENCE AUDIO — 30 SECONDS — FULL LEVEL]
+
+**NO NARRATION**
+
+## [RETURN TO VOICEOVER]
+
+Nothing offensive there.
+
+That's going to become a recurring theme.
 
 ---
 
-## SO WHAT HAPPENED?
+# 04:15 — WHAT P-MOUNT WAS SUPPOSED TO BE
 
-P-Mount didn't disappear because the fundamental idea was stupid.
+I think history has been a little unfair to P-Mount.
 
-If anything, I think the fundamental idea was pretty clever.
+Mention P-Mount today and people tend to picture an inexpensive plastic turntable from the 1980s.
 
-But standardization comes with a price.
+And, yes.
 
-The half-inch mount can accommodate an absurd variety of cartridges.
+There were plenty of those.
 
-Different masses.
+But the original idea wasn't:
+
+*"How can we make the cheapest cartridge possible?"*
+
+The idea was:
+
+*"Why the hell isn't this standardized?"*
+
+And that's a legitimate question.
+
+If Audio-Technica makes a cartridge and Technics makes a turntable, why should the customer need to understand cartridge geometry just to make the two work together?
+
+T4P tried to define the interface.
+
+If everybody follows the standard, the cartridge fits.
+
+The geometry works.
+
+The tracking force works.
+
+The compliance is appropriate for the arm.
+
+You don't need to become the final stage of the manufacturing process.
+
+And Technics used the system on some genuinely sophisticated equipment.
+
+P-Mount wasn't born as another word for cheap.
+
+It became associated with cheap later.
+
+There's a difference.
+
+---
+
+# 05:20 — AND THEN THE CD ARRIVED
+
+## [B-ROLL]
+
+CD.
+
+Open tray.
+
+Insert disc.
+
+Close tray.
+
+Play.
+
+## [VOICEOVER]
+
+And then, of course...
+
+The Compact Disc showed up.
+
+Imagine these two sales pitches.
+
+Vinyl:
+
+*"Before listening, please verify cartridge alignment, vertical tracking force, anti-skating compensation and cartridge compatibility."*
+
+Compact Disc:
+
+## [CLICK PLAY]
+
+*"Push this."*
+
+That's a difficult argument to win.
+
+P-Mount was trying to make vinyl behave more like a standardized consumer format at almost exactly the point where consumers were being offered a format that required basically nothing from them.
+
+Timing is everything.
+
+---
+
+# 06:00 — REFERENCE TRACK 3
+
+## [REFERENCE TRACK 3]
+
+### The Eutopian Dream
+
+## [VOICEOVER]
+
+Here's our third reference.
+
+This time, don't listen for whether you *like* the song.
+
+Listen to how easily you can separate the vocal from everything happening around it.
+
+## [REFERENCE AUDIO — 30 SECONDS — FULL LEVEL]
+
+**NO NARRATION**
+
+## [RETURN]
+
+We'll come back to that when we start comparing cartridges.
+
+---
+
+# 06:45 — WHY P-MOUNT LOST
+
+P-Mount also had another problem.
+
+Its greatest advantage was simultaneously its greatest limitation.
+
+Everything was standardized.
+
+Audiophiles...
+
+do not necessarily enjoy being told they can't adjust something.
+
+The half-inch mount lets us do almost anything.
+
+Different cartridge masses.
 
 Different compliance.
 
 Different tracking forces.
+
+Different body designs.
 
 Moving magnet.
 
@@ -189,399 +375,498 @@ Moving iron.
 
 Moving coil.
 
-Huge bodies.
+Conical.
 
-Tiny bodies.
+Elliptical.
 
-Conicals.
+Shibata.
 
-Ellipticals.
+MicroLine.
 
-Shibatas.
+And enough combinations of cartridge, stylus and headshell to make sure none of us ever accidentally retire with money.
 
-MicroLines.
+P-Mount gives the designer a box and says:
 
-And enough combinations of cartridge and headshell to keep people like me financially irresponsible indefinitely.
+Design inside this.
 
-P-Mount says:
+That's fantastic for compatibility.
 
-Here's the box.
+It's less fantastic when the high-end market wants to see what happens outside the box.
 
-Design inside the box.
+The half-inch mount survived.
 
-That's wonderful for compatibility.
-
-It's less wonderful if your entire hobby is figuring out what happens outside the box.
-
-And eventually the conventional half-inch cartridge won.
+P-Mount slowly became a legacy format.
 
 ---
 
-## WHY AM I STARTING HERE?
+# 07:45 — MEASUREMENT 1: OUTPUT & CHANNEL BALANCE
 
-So why is *this* Cartridge 001?
+## [ON SCREEN — GRAPH]
 
-Why start Phono Referentia with something this ordinary?
+Now let's actually measure this thing.
 
-Because it's ordinary.
+First: output and channel balance.
 
-That's useful.
+Using the same reference signal, I'll measure the left and right channels independently.
 
-The SL-QD33 is quartz locked and direct drive.
+### RESULTS
 
-The cartridge geometry is dictated by P-Mount.
+**Left:** `[RESULT]`
 
-Tracking force is essentially predetermined.
+**Right:** `[RESULT]`
 
-I'm not changing headshells.
+**Difference:** `[RESULT dB]`
 
-I'm not realigning the cartridge every time.
+## [VOICEOVER]
 
-I'm not introducing a dozen little setup differences and then pretending they don't exist.
+I'm less interested in whether the number matches a specification sheet perfectly than I am in establishing our baseline.
 
-For these first tests, I can change the cartridge and stylus while leaving almost everything else alone.
+This is Cartridge 001.
 
-That's a pretty damn good baseline.
+When Cartridge 002 gets here, it gets the same test.
 
----
+Then 003.
 
-# MEASUREMENT 1 — OUTPUT AND CHANNEL BALANCE
+Then 004.
 
-## [ON SCREEN — MEASUREMENT GRAPH]
-
-Before listening, let's get our first numbers.
-
-I'm going to measure the output of the left and right channels using the same reference signal and calculate the difference between them.
-
-### ON SCREEN
-
-**LEFT OUTPUT:** `[RESULT]`  
-**RIGHT OUTPUT:** `[RESULT]`  
-**CHANNEL BALANCE:** `[RESULT dB]`
-
-A perfectly matched cartridge would give us identical output from both channels.
-
-Real cartridges don't live in Perfectland.
-
-What I'm interested in is how close they are — and whether one channel consistently dominates the other.
-
-This also gives us something extremely useful for later reviews.
-
-Cartridge 017 doesn't have to rely on my memory of Cartridge 001.
-
-The numbers will still be here.
+Eventually these numbers stop existing in isolation and start becoming useful.
 
 ---
 
-## WHY THE AT85E?
+# 08:30 — REFERENCE TRACK 4
 
-Now let's talk about the stylus.
+## [REFERENCE TRACK 4]
 
-I could have tried to turn this cartridge into something it isn't.
+### The Eutopian Dream (Extend)
 
-Find the most exotic stylus that fits.
+## [VOICEOVER]
 
-Spend considerably more money.
+Reference four.
 
-See how far I can push the generator.
+Listen to the transitions in level and how well the cartridge keeps the individual elements separated as the arrangement grows.
 
-That's not what I wanted for this test.
+## [REFERENCE AUDIO — 30 SECONDS — FULL LEVEL]
 
-The elliptical stylus makes sense here.
-
-It's better at tracing higher-frequency groove information than a basic conical profile, but it's still a relatively simple, forgiving stylus.
-
-And "forgiving" is going to become important in a minute.
-
-This isn't supposed to be the maximum-performance version of this idea.
-
-This is supposed to represent what I think the whole P-Mount philosophy was about:
-
-Good reproduction.
-
-Minimal drama.
+**NO NARRATION**
 
 ---
 
-# MEASUREMENT 2 — FREQUENCY RESPONSE
+# 09:05 — THE AT85E STYLUS
 
-## [ON SCREEN — 20 Hz–20 kHz GRAPH]
+The elliptical stylus is intentional.
 
-Here's the frequency response.
+I could hunt around for the most exotic replacement that will fit this cartridge and immediately start trying to turn it into something it was never supposed to be.
 
-### ON SCREEN
+But then I've lost my baseline.
 
-**20 Hz:** `[RESULT]`  
-**100 Hz:** `[RESULT]`  
-**1 kHz:** `REFERENCE`  
-**10 kHz:** `[RESULT]`  
-**15 kHz:** `[RESULT]`  
+An elliptical makes sense.
+
+It's more sophisticated than a basic conical.
+
+It can trace more detail.
+
+But it's still relatively forgiving.
+
+And that word keeps coming up with this cartridge:
+
+**Forgiving.**
+
+I don't think that's a dirty word.
+
+---
+
+# 09:45 — MEASUREMENT 2: FREQUENCY RESPONSE
+
+## [ON SCREEN — FREQUENCY RESPONSE]
+
+Here's our measured response.
+
+### RESULTS
+
+**20 Hz:** `[RESULT]`
+
+**100 Hz:** `[RESULT]`
+
+**1 kHz:** `REFERENCE`
+
+**10 kHz:** `[RESULT]`
+
+**15 kHz:** `[RESULT]`
+
 **20 kHz:** `[RESULT]`
 
-**MEASURED RANGE:** `[RESULT]`
+## [VOICEOVER]
 
-And this is where the personality of the cartridge starts becoming something we can actually look at.
+Now we have something to put next to what I'm hearing.
 
-I'm not expecting ruler-flat laboratory instrumentation.
+And I want to be clear about how I'm going to use measurements in this series.
 
-It's a tiny mechanical device dragging a diamond through a plastic canyon.
+The graph doesn't tell me whether I enjoy the cartridge.
 
-Frankly, the fact that this works *at all* remains slightly ridiculous.
+And my ears don't tell me its frequency response to a tenth of a decibel.
 
-But now when I describe the cartridge as bright, dark, restrained, forward, or whatever adjective I eventually settle on, we have something behind that opinion.
+Those are different kinds of information.
 
-Not something that replaces the opinion.
+I want both.
 
-Something that informs it.
+Science gives us the measurement.
 
----
+Listening gives us the interpretation.
 
-# LISTENING
-
-And now we get to the part that actually matters.
-
-Music.
-
-**[PHONO REFERENTIA CLIP]**
-
-My first reaction was:
-
-Yep.
-
-That's a record.
-
-Which sounds sarcastic, but I genuinely don't mean it that way.
-
-Nothing immediately bothered me.
-
-Nothing immediately amazed me either.
-
-Bass is there.
-
-Vocals are clear.
-
-Treble is there.
-
-Stereo image is perfectly respectable.
-
-It doesn't make me want to grab somebody by the shoulders and yell:
-
-*"YOU HAVE TO HEAR THIS CARTRIDGE."*
-
-But it also doesn't make me reach for another headshell.
-
-It just...
-
-plays the record.
+The interesting part is where those two things meet.
 
 ---
 
-# MEASUREMENT 3 — CHANNEL SEPARATION
+# 10:35 — REFERENCE TRACK 5
 
-## [ON SCREEN — CROSSTALK GRAPH]
+## [REFERENCE TRACK 5]
 
-Stereo cartridges are really two transducers occupying one tiny mechanical assembly.
+### Virtus in Arduo
 
-So let's see how much of the left channel leaks into the right and vice versa.
+## [VOICEOVER]
 
-### ON SCREEN
+Last track from Side A.
 
-**SEPARATION @ 1 kHz**
+Thirty seconds.
 
-Left → Right: `[RESULT dB]`  
-Right → Left: `[RESULT dB]`
+Listen first.
 
-**SEPARATION @ 10 kHz**
+We'll talk afterward.
 
-Left → Right: `[RESULT dB]`  
-Right → Left: `[RESULT dB]`
+## [REFERENCE AUDIO — 30 SECONDS — FULL LEVEL]
 
-This is one measurement I'm particularly interested in following across cartridges.
+**NO NARRATION**
 
-Because channel separation isn't just a specification on a box.
+## [RETURN]
 
-It's part of how convincingly a cartridge can keep stereo information separate.
+That's Side A.
 
-And with Phono Referentia, we'll eventually have a pile of these graphs.
-
-That's when this gets fun.
+Now we're going to make things a little less comfortable.
 
 ---
 
-# RECORDS OF QUESTIONABLE PROVENANCE
+# 11:15 — SIDE B / THE HARDER HALF
 
-Here's where I started actually liking this cartridge.
+Side B of Reference Disc I gets progressively more difficult.
 
-I own records whose history I know.
+More information.
 
-Clean records.
+More high-frequency content.
 
-Records I've personally maintained.
+More complicated arrangements.
 
-Records I care about.
+And eventually an intentionally unpleasant inner-groove situation.
 
-And then I own records where...
+Because if everything I play is easy to reproduce, every cartridge gets to look good.
 
-I have questions.
+Where's the fun in that?
 
-**[HOLD UP THRIFT-STORE RECORD]**
+---
 
-Where were you?
+# 11:40 — REFERENCE TRACK 6
 
-Who owned you?
+## [REFERENCE TRACK 6]
 
-Why are you sticky?
+### Stand Your Ground
 
-Actually, don't answer that.
+## [VOICEOVER]
 
-There are records where I don't necessarily want an expensive advanced-contact stylus to be the first explorer sent into the groove.
+Listen to the attack of the percussion and how much space remains between instruments when things get busy.
 
-And this cartridge makes tremendous sense there.
+## [REFERENCE AUDIO — 30 SECONDS — FULL LEVEL]
 
-It's inexpensive.
+**NO NARRATION**
 
-Replacement styli exist.
+---
+
+# 12:15 — MEASUREMENT 3: CHANNEL SEPARATION
+
+## [ON SCREEN — RESULTS]
+
+Now stereo separation.
+
+A stereo cartridge is trying to recover two channels from two groove walls with one tiny mechanical assembly.
+
+Which remains completely insane when you think about it for too long.
+
+### 1 kHz
+
+**Left → Right:** `[RESULT dB]`
+
+**Right → Left:** `[RESULT dB]`
+
+### 10 kHz
+
+**Left → Right:** `[RESULT dB]`
+
+**Right → Left:** `[RESULT dB]`
+
+## [VOICEOVER]
+
+I'm particularly interested in watching this measurement as we move into more expensive cartridges.
+
+If one cartridge creates a noticeably wider or more precise stereo image, I want to know whether we're also seeing something different in separation.
+
+Maybe we will.
+
+Maybe we won't.
+
+That's why we're measuring it.
+
+---
+
+# 13:10 — THE USED-RECORD ARGUMENT
+
+Here's where I think this cartridge starts making a genuinely compelling argument for itself.
+
+I have records whose history I know.
+
+And I have records whose history...
+
+I would prefer not to know.
+
+## [B-ROLL — QUESTIONABLE USED RECORD]
+
+Thrift stores.
+
+Estate sales.
+
+Used bins.
+
+Records that arrive looking perfectly respectable until you put them under actual light and discover they've apparently survived three wars.
+
+What cartridge do I want exploring that groove first?
+
+Do I immediately send in an expensive advanced-contact stylus?
+
+Maybe not.
+
+This?
+
+Absolutely.
+
+It's competent.
+
+It's replaceable.
 
 It's elliptical.
 
 It tracks lightly.
 
-It sounds good.
+And it requires essentially no ceremony.
 
-And there's almost nothing to set up incorrectly.
-
-For a pile of used records of completely unknown origin?
-
-I understand this cartridge.
+For records of unknown origin, I can understand keeping a cartridge exactly like this around permanently.
 
 ---
 
-# MEASUREMENT 4 — TRACKING
+# 14:00 — REFERENCE TRACK 7
 
-## [ON SCREEN — TRACKING TEST]
+## [REFERENCE TRACK 7]
 
-Now let's make its life harder.
+### Velvet Nights — Lounge N House Remix
 
-Using a progressively more demanding tracking test, I'm going to increase recorded velocity until mistracking becomes visible or audible.
+## [VOICEOVER]
 
-### ON SCREEN
+Different material now.
 
-**TRACKING FORCE:** `[RESULT g]`
+Different frequency balance.
 
-**TRACKING RESULT**
+Different kind of bass.
 
-Level 1: `PASS / FAIL`  
-Level 2: `PASS / FAIL`  
-Level 3: `PASS / FAIL`  
-Level 4: `PASS / FAIL`  
-Maximum clean level: `[RESULT]`
+Different spatial information.
 
-I'm looking for the point where the stylus stops following the groove cleanly.
+## [REFERENCE AUDIO — 30 SECONDS — FULL LEVEL]
 
-Not where it explodes.
-
-That would be a different video.
-
-I'm looking for the transition from controlled reproduction into measurable or audible mistracking.
+**NO NARRATION**
 
 ---
 
-# MEASUREMENT 5 — DISTORTION
+# 14:35 — MEASUREMENT 4: TRACKING
 
-## [ON SCREEN — FFT / THD RESULT]
+## [ON SCREEN — TRACKING RESULTS]
 
-Finally, distortion.
+Now we make the stylus work.
 
-Using a known reference tone:
+Using progressively more demanding material, I'll increase the challenge until I can identify mistracking.
 
-### ON SCREEN
+### RESULTS
 
-**THD @ 1 kHz:** `[RESULT %]`
+**Tracking Force:** `[RESULT g]`
 
-**LEFT:** `[RESULT %]`  
-**RIGHT:** `[RESULT %]`
+| Test | Result |
+|---|---|
+| Level 1 | `[PASS / FAIL]` |
+| Level 2 | `[PASS / FAIL]` |
+| Level 3 | `[PASS / FAIL]` |
+| Level 4 | `[PASS / FAIL]` |
 
-I'll also keep the spectrum visible so we can see *where* that distortion is appearing rather than reducing everything to one number.
+**Maximum Clean Level:** `[RESULT]`
 
-Again, this becomes much more interesting once Cartridge 001 becomes Cartridge 001 through Cartridge 020.
+## [VOICEOVER]
+
+I'm not looking for the point where everything catastrophically falls apart.
+
+That's easy.
+
+I'm interested in where clean tracking starts becoming *not quite clean*.
+
+Because that's where stylus geometry, compliance and the rest of the mechanical system start showing themselves.
 
 ---
 
-# SO... IS IT GOOD?
+# 15:30 — HOW IT ACTUALLY SOUNDS
 
-Yes.
+So after all of this...
 
-With an asterisk.
+How does it sound?
 
-Is it exceptional?
+Fine.
 
-No.
+I'm sorry.
 
-Would I choose it as my main cartridge?
+I tried to find a more exciting word.
 
-No.
+I really did.
 
-Would I recommend somebody replace a cartridge they love with this because I've uncovered some secret audiophile masterpiece?
+It's fine.
 
-Absolutely not.
+Bass is respectable.
 
-But I think there's another kind of audiophile who might genuinely love this thing.
+Vocals are clear.
 
-Someone who wants consistency.
+Treble behaves itself.
 
-Someone who doesn't enjoy cartridge setup.
+Stereo presentation is convincing enough.
 
-Someone who buys used records.
+Nothing makes me angry.
 
-Someone who wants good sound without turning every stylus replacement into a precision mechanical engineering exercise.
+Nothing makes me emotional.
 
-Someone whose relationship with vinyl is:
+Nothing makes me immediately start searching eBay for another one.
 
-*"I would like to listen to my records now."*
+It plays music competently.
+
+And I think reviewers sometimes feel obligated to turn every product into either a revelation or a disaster.
+
+Most things aren't.
+
+Most things live somewhere in between.
+
+This lives very comfortably in between.
+
+---
+
+# 16:20 — REFERENCE TRACK 8
+
+## [REFERENCE TRACK 8]
+
+### We Were Over in the Little
+
+## [VOICEOVER]
+
+And this is the one I've been waiting for.
+
+The final track is deliberately difficult.
+
+It's near the inner groove.
+
+It's bright.
+
+It's dense.
+
+And I deliberately pushed more demanding information toward the left channel — the inner groove wall.
+
+So now...
+
+I'm going to shut up.
+
+## [REFERENCE AUDIO — 30 SECONDS MINIMUM]
+
+**NO NARRATION**
+
+**OPTION: ALLOW 45–60 SECONDS HERE IF RUNTIME PERMITS**
+
+## [RETURN TO CAMERA]
+
+That's the torture test.
+
+We'll be hearing that exact section again.
+
+A lot.
+
+---
+
+# 17:15 — MEASUREMENT 5: DISTORTION
+
+## [ON SCREEN — FFT]
+
+One final measurement.
+
+Distortion.
+
+### RESULTS
+
+**1 kHz THD**
+
+**Left:** `[RESULT %]`
+
+**Right:** `[RESULT %]`
+
+**Combined / Reference:** `[RESULT %]`
+
+## [VOICEOVER]
+
+I'm keeping the FFT on screen as well because I don't just want a single percentage.
+
+I want to see what's actually happening.
+
+Again, Cartridge 001 isn't particularly interesting by itself.
+
+Cartridge 001 compared with Cartridge 010 might be.
+
+---
+
+# 18:00 — WHO SHOULD ACTUALLY WANT THIS?
+
+I think there is an audiophile for this cartridge.
+
+It's just not me.
+
+If your idea of the hobby is extracting absolutely everything you possibly can from a record...
+
+There are more interesting places to go.
+
+That's where *I'm* going.
+
+But there's another completely legitimate version of this hobby.
+
+You want a good turntable.
+
+You want your records reproduced properly.
+
+You want consistency.
+
+You don't want cartridge alignment to become a personality trait.
+
+You don't want seven headshells.
+
+You don't want to spend forty minutes setting up a cartridge and then another hour wondering whether you actually set it up correctly.
+
+You want to put on a record.
 
 For that person?
 
-This is kind of great.
+P-Mount makes a tremendous amount of sense.
+
+And this cartridge makes a tremendous amount of sense.
 
 ---
 
-# THE PART I RESPECT
+# 19:00 — FINAL SCORECARD
 
-I spend a lot of time chasing improvements.
+## [ON SCREEN]
 
-Different cartridges.
-
-Different styli.
-
-Different equipment.
-
-Different ways of extracting another little piece of information from a groove.
-
-So this isn't really *my* cartridge.
-
-But I respect it.
-
-Because there's an elegance in something that knows exactly what job it's supposed to do.
-
-The AT91E with this elliptical stylus isn't asking you to admire it.
-
-It's not asking you to spend an afternoon aligning it.
-
-It's not demanding pristine records.
-
-It doesn't care whether you've memorized the difference between Baerwald and Stevenson.
-
-It wants 1.25 grams, a P-Mount socket, and a record.
-
-That's a pretty reasonable relationship.
-
----
-
-# FINAL SCORECARD
-
-## [FULL-SCREEN GRAPHIC]
-
-### Audio-Technica AT91E / AT85E
+# Audio-Technica AT91E / AT85E
 
 | Measurement | Result |
 |---|---:|
@@ -594,51 +879,112 @@ That's a pretty reasonable relationship.
 | Maximum Tracking Level | `[RESULT]` |
 | THD @ 1 kHz | `[RESULT %]` |
 
-### Listening Notes
+### Listening
 
-**Detail:** `[NOTES]`  
-**Bass:** `[NOTES]`  
-**Midrange:** `[NOTES]`  
-**Treble:** `[NOTES]`  
-**Stereo Image:** `[NOTES]`  
-**Tracking:** `[NOTES]`
+**Bass:** `[FINAL NOTE]`
+
+**Midrange:** `[FINAL NOTE]`
+
+**Treble:** `[FINAL NOTE]`
+
+**Vocals:** `[FINAL NOTE]`
+
+**Stereo Image:** `[FINAL NOTE]`
+
+**Tracking:** `[FINAL NOTE]`
+
+**Overall:** `[FINAL NOTE]`
 
 ---
 
-# VERDICT
+# 19:30 — VERDICT
 
-There are going to be better cartridges in this series.
+Would I choose this as my primary cartridge?
 
-I know that before I've even tested them.
+No.
 
-There will be cartridges with more detail.
+Would I call it exceptional?
 
-Better separation.
+No.
 
-More sophisticated styli.
+Would I tell someone who owns one that they need to replace it?
 
-Better tracking.
+Also no.
 
-Cartridges that make me sit down and listen to an album I wasn't planning to finish.
+And that's probably the most meaningful compliment I can give it.
 
-This probably isn't one of those.
+It works.
 
-But that's okay.
+It's consistent.
 
-Because Phono Referentia needs a Cartridge 001.
+It's easy.
 
-It needs somewhere boring, competent and repeatable to start.
+It sounds good.
 
-And honestly?
+It asks almost nothing from you.
 
-I can't think of anything more appropriate than P-Mount.
+There are cartridges designed to show you how much information can possibly be extracted from a groove.
 
-An abandoned attempt to make vinyl simpler...
+This isn't one of them.
 
-being used forty-some years later as the baseline for an absurdly elaborate cartridge-testing project.
+This feels like a cartridge designed to make sure you can play your records tonight.
 
-That feels about right.
+And there is absolutely nothing wrong with that.
 
-**[LOWER TONEARM]**
+---
 
-Let's see where we go from here.
+# 20:15 — CLOSE
+
+There's also something wonderfully appropriate about beginning Phono Referentia here.
+
+P-Mount was an attempt to remove variables from cartridge installation.
+
+Forty-some years later, I'm using it because I want to remove variables from cartridge testing.
+
+Apparently somebody had a good idea.
+
+We just took a while to find another use for it.
+
+## [B-ROLL — STYLUS LOWERING]
+
+This is Cartridge 001.
+
+This is our baseline.
+
+Now we find out how much better it gets.
+
+## [REFERENCE AUDIO RETURNS]
+
+Allow the record to play alone through the final shot.
+
+**FADE OUT.**
+
+---
+
+# EDITING / RUNTIME NOTES
+
+**Target spoken + production runtime:** 20–21 minutes
+
+**Minimum dedicated music demonstrations:**
+
+| Track | Minimum Foreground Playback |
+|---|---:|
+| Before the Record Slips Away | 0:30 |
+| Edge of the Page | 0:30 |
+| The Eutopian Dream | 0:30 |
+| The Eutopian Dream (Extend) | 0:30 |
+| Virtus in Arduo | 0:30 |
+| Stand Your Ground | 0:30 |
+| Velvet Nights — Lounge N House Remix | 0:30 |
+| We Were Over in the Little | 0:30 |
+| **TOTAL** | **4:00 minimum** |
+
+For the remaining portions of each 2–3 minute excerpt, the cartridge recording can continue quietly beneath narration where it works editorially.
+
+Do not normalize the cartridge demonstrations independently from one another.
+
+Use the same capture and playback methodology throughout the series so that changes in presentation do not accidentally become changes attributed to the cartridge.
+
+During the dedicated 30-second listening sections, remove narration completely and identify the track and cartridge on screen.
+
+The final inner-groove demonstration can run **45–60 seconds** when the episode has enough available runtime.
