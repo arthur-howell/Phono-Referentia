@@ -35,7 +35,7 @@ The resulting recordings, measurements, documentation, and observations can then
 **Vinyl Weight:** 180 grams  
 **Manufacturer:** American Vinyl Company  
 **Side A Duration:** 19:44  
-**Side B Duration:** Approximately 17 minutes  
+**Side B Duration:** 16:56  
 **Playback:** Stereo  
 **Project:** Phono Referentia  
 
